@@ -41,6 +41,6 @@ Feel free to reach out to me for any collaboration or discussion regarding data 
 
 ---
 
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashvasisht)
+<!--![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashvasisht)-->
 
 
