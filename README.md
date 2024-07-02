@@ -25,6 +25,9 @@ I enjoy transforming raw data into meaningful insights and am always eager to le
 
 ## 🏆 Projects
 - **Credit Card Power BI Project**: Analyzing credit card transaction data using Power BI. [View Project](https://github.com/avinashvasishtgmail/Credit_card_powerbi_project)
+- **SQL Pizza Sales Analysis**: Analyzing pizza sales using postgre SQL. [View Project](https://github.com/avinashvasishtgmail/SQL_pizza_sales_analysis)
+- **Music Store Analysis**: Data analysis of music trends using SQL. [View Project](https://github.com/avinashvasishtgmail/Music_store_analysis)
+- **Coffee Shop Sales Analysis**: Used advance excel for sales analysis. [View Project](https://github.com/avinashvasishtgmail/Coffee_shop_sales_analysis)  
 
 ## 📈 Skills
 - Data Transformation
