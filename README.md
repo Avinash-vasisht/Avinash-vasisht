@@ -1,7 +1,9 @@
-# Avinash Vasisht - Data and Finance Enthusiast
+# Avinash Vasisht - Data and Finance Enthusiast 
 
-<!--![Data Analytics](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
-![Finance](https://media.giphy.com/media/3ohhwfsW66s7d8aPhS/giphy.gif)-->
+
+
+![Data Analytics](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) 
+<!--![Finance](https://media.giphy.com/media/3ohhwfsW66s7d8aPhS/giphy.gif)-->
 
 ## 👋 Hello, I'm Avinash Vasisht!
 I am passionate about **Data Analytics** and **Finance**. My expertise includes:
