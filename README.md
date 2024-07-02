@@ -1,27 +1,43 @@
-<h1 align="center">Hi 👋, I'm Avinash Vasisht</h1>
-<h3 align="center">Data and Finance Enthusiast from India</h3>
+# Avinash Vasisht - Data and Finance Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashvasishtgmail&label=Profile%20views&color=0e75b6&style=flat" alt="avinashvasishtgmail" /> </p>
+<!--![Data Analytics](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+![Finance](https://media.giphy.com/media/3ohhwfsW66s7d8aPhS/giphy.gif)-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashvasishtgmail" alt="avinashvasishtgmail" /></a> </p>
+## 👋 Hello, I'm Avinash Vasisht!
+I am passionate about **Data Analytics** and **Finance**. My expertise includes:
 
-- 🌱 I’m currently learning **Data analytics**
+- 🖥️ **Excel**
+- 📊 **Power BI**
+- 🗃️ **SQL**
+- 🐍 **Python**
 
-- 📝 I regularly write on linkedin [www.linkedin.com/in/avinashvasisht](www.linkedin.com/in/avinashvasisht)
+I enjoy transforming raw data into meaningful insights and am always eager to learn and grow in the field of data analytics and finance.
 
-- 💬 Ask me about **Pyhon,excel, power bi and sql**
+## 🌐 Connect with Me
+- LinkedIn: [Avinash Vasisht](https://www.linkedin.com/in/avinashvasisht)
+- Email: [avinashvasisht18@gmail.com](mailto:avinashvasisht18@gmail.com)
 
-- 📫 How to reach me **avinashvasisht18@gmail.com**
+## 🔧 Tools & Technologies
+- ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png)
+- ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+- ![Python](https://img.icons8.com/color/48/000000/python.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/avinashvasisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/avinashvasisht" height="30" width="40" /></a>
-</p>
+## 🏆 Projects
+- **Credit Card Power BI Project**: Analyzing credit card transaction data using Power BI. [View Project](https://github.com/avinashvasishtgmail/Credit_card_powerbi_project)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📈 Skills
+- Data Transformation
+- Data Visualization
+- Financial Analysis
+- SQL Querying
+- Python Scripting
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashvasishtgmail&show_icons=true&locale=en&layout=compact" alt="avinashvasishtgmail" /></p>
+## 📩 Get in Touch
+Feel free to reach out to me for any collaboration or discussion regarding data analytics and finance. I'm always excited to connect with fellow enthusiasts!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashvasishtgmail&show_icons=true&locale=en" alt="avinashvasishtgmail" /></p>
+---
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=avinashvasisht)
+
 
