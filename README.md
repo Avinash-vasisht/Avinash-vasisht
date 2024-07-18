@@ -1,7 +1,5 @@
 # Avinash Vasisht - Data and Finance Enthusiast 
 
-
-
 ![Data Analytics](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) 
 <!--![Finance](https://media.giphy.com/media/3ohhwfsW66s7d8aPhS/giphy.gif)-->
 
